@@ -1,2 +1,1 @@
-#!/bin/bash
-su betty
+we are doing shell permisions
